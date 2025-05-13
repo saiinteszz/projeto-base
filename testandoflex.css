@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+
+.container{
+ display: flex;
+ gap: 10px;
+    background-color: rgb(28, 80, 104);
+ flex-wrap: wrap;
+ align-items: center;
+  /* height: 600px; */
+  /* justify-content: center; */
+}
+.item{
+    /* width: 200px; */
+    height: 200px;
+    background-color:rgb(146, 192, 214) ;
+}
+
+.item-3{
+    flex-grow: 1;
+}

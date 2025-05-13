@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-family: Impact;
+}
+header{
+    background-color: blue;    
+}
+
+#hdotitulo{
+    color: aliceblue;
+    text-align: center;
+}
+
+#hdoscreditos{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+
+nav{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+img{
+    margin: auto;
+    display: block; 
+}
+#titulopraia{
+text-align: center;
+}
+#hdotitulo{
+    text-align: center;
+    color: aliceblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+
+}
