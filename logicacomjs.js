@@ -8,10 +8,10 @@ console.log("a multiplicação é "+mult)
 let sub = num1 - num2;
 console.log("______________________________________")
 let div = num1 / num2;
-console.log("a divisão é "+div)*/
+console.log("a divisão é "+div)
 let usuario = ("italo");
 let salario = 2036;
 let meses= 12
 let trabalhados = 12
 let mult = salario/meses*trabalhados;
-console.log(usuario+" seu 13° é R$"+mult)
+console.log(usuario+" seu 13° é R$"+mult)*/
